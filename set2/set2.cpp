@@ -1,3 +1,10 @@
+
+/*
+set2
+student - Butarev Lev
+091124
+*/
+
 #include <iostream>
 using namespace std;
 
