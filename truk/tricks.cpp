@@ -14,7 +14,7 @@ int main()
     int y = 54;
 
     int z = (x > y) ? x : y;
-
+ 
     cout << z << endl;
     return 0;
 }
